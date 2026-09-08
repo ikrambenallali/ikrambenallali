@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Votre bannière Canva personnalisée -->
-<img src="Banner.png" width="100%" alt="Ikram El Benallali Banner" />
+<img src="banner.png" width="100%" alt="Ikram El Benallali Banner" />
 
 <br><br>
 
