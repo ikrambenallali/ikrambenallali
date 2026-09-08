@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner Top (Rose Gradient) -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=7852A9&height=120&section=header" width="100%"/>
+<!-- Banner Top (Rose) -->
+<img src="https://svg-banners.vercel.app/api?type=waving&text=%20&width=800&height=120&color=ff69b4" width="100%"/>
 
 # HELLO, MY NAME IS IKRAM 👋
 
@@ -11,9 +11,9 @@
 
 ### GitHub Stats
 
-<!-- GitHub Stats Card -->
+<!-- GitHub Stats via Metrics (Alternative très stable sans limites Vercel) -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ikrambenallali&show_icons=true&theme=dracula&title_color=ec4899&icon_color=ec4899" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=ikrambenallali&show_icons=true&theme=dracula&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
 </p>
 
 <br>
@@ -67,7 +67,7 @@
 
 ---
 
-<!-- Banner Bottom (Rose Gradient) -->
-<img src="https://capsule-render.vercel.app/render?type=waving&color=7852A9&height=120&section=footer" width="100%"/>
+<!-- Banner Bottom (Rose) -->
+<img src="https://svg-banners.vercel.app/render?type=waving&text=%20&width=800&height=120&color=ff69b4" width="100%"/>
 
 </div>
