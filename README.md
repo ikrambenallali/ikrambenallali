@@ -1,9 +1,33 @@
 <div align="center">
 
-<!-- Votre bannière Canva personnalisée -->
-<img src="Banner.png" width="100%" alt="Ikram El Benallali Banner" />
+<!-- Banner Top (Vague Rose en SVG pur - 100% stable sans serveur externe) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" height="120" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="roseGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="50%" stop-color="#d946ef" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#roseGradient)" d="M0,32L48,42.7C96,53,192,75,288,80C384,85,480,75,576,64C672,53,768,43,864,48C960,53,1056,75,1152,80C1200,83,1248,72,1296,61.3L1344,51L1344,0L1296,0C1248,0,1200,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
+</svg>
 
-<br><br>
+# HELLO, MY NAME IS IKRAM 👋
+
+**Full Stack Developer | React, Next.js, Node.js, NestJS & Laravel**
+
+---
+
+### GitHub Trophies & Stats
+
+<!-- Stats alternatives très fiables -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ikrambenallali&theme=onedark&column=4&margin-w=15" alt="Ikram Trophies" />
+</p>
+
+<br>
+
+---
 
 ### Technical Skills
 
