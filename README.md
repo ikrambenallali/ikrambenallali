@@ -5,7 +5,7 @@
 
 <br/><br/>
 
-# 🌸 ✨ HELLO, I'M IKRAM EL BENALLALI ✨ 🌸
+# 🌸  HELLO, I'M IKRAM EL BENALLALI  🌸
 
 > 💻 **Full-Stack Software Developer** | *Crafting scalable web applications with elegance & precision.*
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 💖 About Me
+### 🌸 About Me 🌸
 
 ```typescript
 const ikram = {
