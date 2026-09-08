@@ -11,8 +11,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-e056fd?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikram-el-benallali)
-[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-ff79c6?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Contact-Email-ffb86c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikram@example.com)
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-ff79c6?style=for-the-badge&logo=firefox&logoColor=white)](https://ikram-el-benallali.onrender.com/)
+[![Email](https://img.shields.io/badge/Contact-Email-ffb86c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikrambenallali2003@gmail.com)
 
 ---
 
