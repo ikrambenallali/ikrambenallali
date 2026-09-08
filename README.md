@@ -1,7 +1,16 @@
 <div align="center">
 
-<!-- Banner Top (Rose) -->
-<img src="https://svg-banners.vercel.app/api?type=waving&text=%20&width=800&height=120&color=ff69b4" width="100%"/>
+<!-- Banner Top (Vague Rose en SVG pur - 100% stable sans serveur externe) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" height="120" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="roseGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="50%" stop-color="#d946ef" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#roseGradient)" d="M0,32L48,42.7C96,53,192,75,288,80C384,85,480,75,576,64C672,53,768,43,864,48C960,53,1056,75,1152,80C1200,83,1248,72,1296,61.3L1344,51L1344,0L1296,0C1248,0,1200,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
+</svg>
 
 # HELLO, MY NAME IS IKRAM 👋
 
@@ -9,11 +18,11 @@
 
 ---
 
-### GitHub Stats
+### GitHub Trophies & Stats
 
-<!-- GitHub Stats via Metrics (Alternative très stable sans limites Vercel) -->
+<!-- Stats alternatives très fiables -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=ikrambenallali&show_icons=true&theme=dracula&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ikrambenallali&theme=onedark&column=4&margin-w=15" alt="Ikram Trophies" />
 </p>
 
 <br>
@@ -67,7 +76,16 @@
 
 ---
 
-<!-- Banner Bottom (Rose) -->
-<img src="https://svg-banners.vercel.app/render?type=waving&text=%20&width=800&height=120&color=ff69b4" width="100%"/>
+<!-- Banner Bottom (Vague Rose en SVG pur) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" height="120" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="roseGradientBottom" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="50%" stop-color="#d946ef" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#roseGradientBottom)" d="M0,64L48,58.7C96,53,192,43,288,48C384,53,480,75,576,80C672,85,768,75,864,64C960,53,1056,32,1152,26.7C1200,21,1248,32,1296,37.3L1344,43L1344,120L1296,120C1248,120,1200,120,1152,120C1056,120,960,120,864,120C768,120,672,120,576,120C480,120,384,120,288,120C192,120,96,120,48,120L0,120Z"></path>
+</svg>
 
 </div>
