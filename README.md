@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Banner Image depuis le dépôt GitHub -->
-<img src="Banner.png" width="100%" alt="Ikram El Benallali Banner" style="border-radius: 10px;" />
 
 <br/><br/>
 
