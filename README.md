@@ -20,7 +20,7 @@
 ### 🌸 About Me 🌸
 
 ```typescript
-const ikram = {
+const ikram = { 
     code: ["TypeScript", "JavaScript", "PHP"],
     frontend: ["Next.js", "React", "Tailwind CSS"],
     backend: ["Laravel", "NestJS", "Express.js", "Node.js"],
